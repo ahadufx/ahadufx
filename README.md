@@ -10,11 +10,13 @@
    <a href="https://github.com/ahadufx">
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=I+am+Abdul+Ahad" alt="Abdul Ahad" /></a>
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Software+Engineer; Full+Stack+Developer; DevOps+Engineer; Data+Scientist;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Freelance+Graphic+&+User+Interface Designer;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
    </a>
 </p>
     <div align="center">
-	<div>I write bugs</div>  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="100" />
+	<div>Creative UI and Graphic Designer
+
+</div>  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="100" />
 	<br />
 	<br />
 </div>
@@ -25,7 +27,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahadufx" target="blank"><img src="https://img.shields.io/twitter/follow/ahadufx?logo=twitter&style=for-the-badge" alt="ahadufx" /></a> </p>
 
-- 🔭 I’m currently working on [366 Days on Leetcode](https://github.com/ahadufx/366DaysofLeetcode)
+- 🔭 I’m currently working as Freelance Designer(https://github.com/ahadufx/366DaysofLeetcode)
   <div align="center">
     <p align="center">
       <h2>LeetCode Stats</h2>
@@ -33,9 +35,37 @@
     <img src="https://leetcard.jacoblin.cool/ahadufx?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
   </div>
 
-- 🌱 I’m currently learning **variety of topics to strengthen my skills as a data scientist and software engineer. On the data science front, I'm delving into machine learning algorithms, statistical analysis, and data visualization techniques. I find it fascinating to explore different models and understand how they can be applied to real-world problems. In the realm of software engineering, I'm focusing on enhancing my proficiency in programming languages such as C++ and Python, as well as improving my understanding of data structures and algorithms. Additionally, I'm gaining hands-on experience with web development frameworks and tools to build robust and scalable applications. I'm also keen on developing a solid foundation in databases, both relational and NoSQL, to effectively manage and manipulate data in various projects. Keeping up with industry trends and best practices in both data science and software engineering is crucial, so I'm constantly exploring new technologies and methodologies to stay on the cutting edge. Overall, the journey involves a mix of theoretical learning, practical application, and continuous exploration to stay adaptive in the dynamic fields of data science and software engineering.**
+Certainly! Here's a comprehensive GitHub description for your profile:
 
-- 👯 I’m looking to collaborate on **innovative projects that blend data science and software engineering. Whether it's developing machine learning models, creating data-driven applications, or solving complex problems through coding, I'm eager to join forces with like-minded individuals. Let's bring creativity and technical expertise together to build something extraordinary! Open to ideas and discussions in the exciting realms of data and technology.**
+---
+
+# Ahad | Graphic Designer & UI/UX Enthusiast
+
+🎨 **About Me**
+- Hey there! I'm Ahad, a passionate graphic designer with a flair for creativity. Over the past three years, I've honed my skills in logo design, leaving a trail of satisfied clients across various platforms. My mission? To turn your vision into a visual masterpiece!
+- I firmly believe that contemporary design and a fresh level of creativity are essential in today's world. Standing out means being exclusive and innovative.
+
+🌟 **What I Do**
+- Creative and detail-oriented, I specialize in:
+  - Interface designs
+  - Illustration
+  - Typography
+  - Banners and flyers
+  - E-books and PDFs
+  - Animation
+  - Logo design
+
+🚀 **Leadership & Volunteering**
+- As the Graphic Team Lead at Google Developer Groups Cloud Islamabad, I've spent three years fostering collaboration and driving innovation. Leading a dynamic team of six, I merge my passion for technology and design to create compelling visuals and experiences.
+- My track record includes organizing successful workshops and events within the tech community.
+
+🌐 **UI Design Experience**
+- Previously, I worked as a UI Designer at [Financing Fusion], where I crafted visually appealing and user-friendly interfaces for digital products. My designs strike the perfect balance between functionality and aesthetics.
+- Proficient in wireframing, prototyping, and mockup tools, I'm always up for exciting design challenges.
+
+📈 **Let's Connect!**
+- Want to collaborate or explore opportunities? Let's chat! Feel free to reach out—I promise you won't be disappointed
+---
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ahadufx](https://www.github.com/ahadufx)
 
@@ -43,7 +73,6 @@
 
 - 📫 How to reach me **ahadufx@gmail.com**
 
-- ⚡ Fun fact **Did you know that the term "bug" in software engineering originated from an actual insect? In 1947, computer scientist Grace Hopper discovered an actual moth causing a malfunction in the Harvard Mark II computer. She taped the insect into her logbook and noted it as the "first actual case of bug being found." From that day on, software glitches became known as "bugs," and debugging as the process of fixing them. So, the next time you find a bug in your code, you can thank a real moth for the term! 🐞💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
